@@ -1,0 +1,3 @@
+BACKEND_URL = https:\/\/mobven.com\/dev
+BUNDLE_ID = com.mobven.LetsDoIt
+APP_NAME = LetsDoItDev
